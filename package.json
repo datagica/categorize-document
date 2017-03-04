@@ -1,6 +1,6 @@
 {
   "name": "@datagica/classify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Naive document classifier",
   "main": "./lib/classify.js",
   "scripts": {
@@ -8,15 +8,14 @@
   },
   "author": "Julian Bilcke <julian.bilcke@datagica.com>",
   "license": "GPL-3.0",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/datagica/classify.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datagica/classify.git"
   },
   "publishConfig": {
     "access": "public"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "3.2.0",
     "chai-fuzzy": "1.6.0",
