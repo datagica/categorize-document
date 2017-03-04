@@ -1,6 +1,6 @@
 {
   "name": "@datagica/classify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Naive document classifier",
   "main": "./lib/classify.js",
   "scripts": {
